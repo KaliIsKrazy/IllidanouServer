@@ -8,10 +8,10 @@ L'objectif est de remplir ces quêtes, et ça vous prendra quelques centaines d'
 ### Procédure d'installation
 
 Voici les étapes pour installer le lanceur sur votre PC :
-1. Télécharger et installer [CUrseforg](https://download.curseforge.com/ "Curseforge").
+1. Télécharger et installer [Curseforge](https://download.curseforge.com/ "Curseforge").
 2. Télécharger la suite de mod [Ragnamod VI](https://www.curseforge.com/minecraft/modpacks/ragnamod-vi "Ragnamod VI") - Il faut télécharger la version 6.1.6
 
-![install](./images/install.png)
+![install](../images/install.png)
 
 L'installation prendra plusieurs minutes.
 
@@ -19,7 +19,7 @@ L'installation prendra plusieurs minutes.
 
 1. Lancer Curseforge sur votre PC et lancer Ragnamod dans l'onglet Minecraft puis MyModpacks, en cliquant sur Play
 
-![install](./images/launchModpack.png)
+![install](../images/launchModpack.png)
 
 2. Une fois Minecraft lancé
 

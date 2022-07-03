@@ -19,9 +19,15 @@ L'installation prendra plusieurs minutes.
 
 1. Lancer Curseforge sur votre PC et lancer Ragnamod dans l'onglet Minecraft puis MyModpacks, en cliquant sur Play
 
-![install](../images/launchModpack.png)
+![modpack](../images/launchModpack.png)
 
-2. Une fois Minecraft lancé
+2. Une fois Minecraft lancé, aller sur l'onglet Configurations.
+3. Sélectionner la configuration Ragnamod VI qui a été créée par défaut lors de l'install
+4. Cliquer sur Modifier
+5. Cliquer sur Plus d'options
+6. Dans Arguments JVM : Remplacer le -Xmx4096m par -Xmx10000m
+
+Cette étape sera à faire à chaque lancement du jeu probablement.
 
 ### Rejoindre le serveur
 

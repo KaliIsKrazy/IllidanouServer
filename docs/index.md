@@ -11,7 +11,7 @@ Voici les étapes pour installer le lanceur sur votre PC :
 1. Télécharger et installer [Curseforge](https://download.curseforge.com/ "Curseforge").
 2. Télécharger la suite de mod [Ragnamod VI](https://www.curseforge.com/minecraft/modpacks/ragnamod-vi "Ragnamod VI") - Il faut télécharger la version 6.1.6
 
-![install](../images/install.png)
+![install](./images/install.png)
 
 L'installation prendra plusieurs minutes.
 
@@ -19,7 +19,7 @@ L'installation prendra plusieurs minutes.
 
 1. Lancer Curseforge sur votre PC et lancer Ragnamod dans l'onglet Minecraft puis MyModpacks, en cliquant sur Play
 
-![modpack](../images/launchModpack.png)
+![modpack](./images/launchModpack.png)
 
 2. Une fois Minecraft lancé, aller sur l'onglet Configurations.
 3. Sélectionner la configuration Ragnamod VI qui a été créée par défaut lors de l'install
